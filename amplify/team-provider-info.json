@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifyappmeriembs-dev-b2270",
       "StackId": "arn:aws:cloudformation:us-west-2:519918073452:stack/amplify-amplifyappmeriembs-dev-b2270/026129d0-74a6-11ef-a288-02aa1bdf786d",
       "AmplifyAppId": "d832vlfbfkdy5"
+    },
+    "categories": {
+      "auth": {
+        "amplifyappmeriembsbc468219": {}
+      }
     }
   }
 }
